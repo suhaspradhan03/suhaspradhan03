@@ -1,7 +1,7 @@
 - 👋 Hi, I’m suhas pradhan
-- 👀 I’m interested in programming, learning new programming languages
-- 🌱 I’m currently learning python,django,data analysis and data science  
-- 💞️ I’m looking to collaborate on anything that is available
+- 👀 I’m interested in programming, learning new programming languages.
+- 🌱 I’m currently learning python,django,data analysis and data science.  
+- 💞️ I’m looking to collaborate on anything that is available.
 - 📫 How to reach me -- suhaspradhan03@gmail.com
 
 <!---
